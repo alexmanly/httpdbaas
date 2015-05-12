@@ -1,6 +1,6 @@
 # httpdbaas
 
-This cookbook installs the apache2 package and starts the apache2 service. The purpose of this cookbook is to act a runtime dependency for the [sitedbaas](https://github.com/binamov/sitedbaas) cookbook.
+This cookbook installs the apache2 package and starts the apache2 service. The purpose of this cookbook is to act as a runtime dependency for the [sitedbaas](https://github.com/binamov/sitedbaas) cookbook.
 
 ## supported platforms
 This cookbook has been tested on:
